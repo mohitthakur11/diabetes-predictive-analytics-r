@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rcheck/
+.Rcheck*
+.Renviron
+*.Rout
+*.log
+.DS_Store
+Thumbs.db

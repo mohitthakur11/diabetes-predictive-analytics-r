@@ -1,0 +1,5 @@
+"Prediction","Reference","Freq"
+"Negative","Negative",13
+"Positive","Negative",2
+"Negative","Positive",2
+"Positive","Positive",32

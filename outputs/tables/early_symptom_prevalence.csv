@@ -1,0 +1,29 @@
+"class","symptom","prevalence"
+"Negative","Itching",0.526
+"Negative","weakness",0.526
+"Negative","Alopecia",0.5
+"Negative","delayed healing",0.462
+"Negative","muscle stiffness",0.308
+"Negative","visual blurring",0.295
+"Negative","Polyphagia",0.231
+"Negative","partial paresis",0.179
+"Negative","Genital thrush",0.141
+"Negative","sudden weight loss",0.141
+"Negative","Obesity",0.128
+"Negative","Irritability",0.103
+"Negative","Polyuria",0.064
+"Negative","Polydipsia",0.051
+"Positive","Polyuria",0.734
+"Positive","Polydipsia",0.694
+"Positive","weakness",0.682
+"Positive","Polyphagia",0.572
+"Positive","partial paresis",0.566
+"Positive","sudden weight loss",0.538
+"Positive","delayed healing",0.514
+"Positive","visual blurring",0.509
+"Positive","Itching",0.497
+"Positive","muscle stiffness",0.428
+"Positive","Irritability",0.364
+"Positive","Genital thrush",0.324
+"Positive","Alopecia",0.295
+"Positive","Obesity",0.197
