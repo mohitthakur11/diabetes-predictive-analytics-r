@@ -1,3 +1,4 @@
+
 # 🩺 Diabetes Predictive Analytics Using R
 
 ### Exploring Diabetes Data • Statistical Insights • Machine Learning
@@ -91,6 +92,38 @@ The project includes visualizations designed to investigate:
 - Prevalence of reported symptoms and symptom counts.
 
 Figures are available in `outputs/figures/`.
+
+---
+
+## 🖼️ Visual Highlights
+
+The following figures showcase selected parts of the exploratory analysis and model evaluation workflow.
+
+### 1. PIMA Dataset — Correlation Analysis
+
+Explore relationships among the clinical predictors in the PIMA dataset.
+
+![PIMA correlation plot](outputs/figures/pima_corrplot.png)
+
+### 2. PIMA Dataset — Model Performance
+
+ROC curves compare the classification performance of the evaluated models across different decision thresholds.
+
+![PIMA ROC curves](outputs/figures/pima_roc_curves.png)
+
+### 3. PIMA Dataset — Variable Importance
+
+This visualization shows predictor importance estimates from the Random Forest model.
+
+![PIMA variable importance](outputs/figures/pima_variable_importance.png)
+
+### 4. Early Stage Diabetes — Model Evaluation
+
+ROC curves show the test-set discrimination performance of models evaluated using the deduplicated Early Stage Diabetes dataset.
+
+![Early Stage Diabetes ROC curves](outputs/figures/early_deduplicated_roc_curves.png)
+
+**Explore all figures:** Browse [`outputs/figures/`](outputs/figures/) for class distributions, boxplots, histograms, decision trees, symptom prevalence, and other visualizations.
 
 ---
 
@@ -240,7 +273,7 @@ M.Tech — Data Science and Analytics
 
 ---
 
-### 📚 Dataset References
+## 📚 Dataset References
 
 1. [PIMA Indians Diabetes Dataset — Kaggle](https://www.kaggle.com/datasets/kumargh/pimaindiansdiabetescsv)
 2. [Early Stage Diabetes Risk Prediction Dataset — UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset)
